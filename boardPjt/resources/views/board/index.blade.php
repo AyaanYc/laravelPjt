@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>board index</h1>
-    <div>Different</div>
     <div>
         <a href="<?=route('boards.create')?>">
             <button type="button">글쓰기</button>
